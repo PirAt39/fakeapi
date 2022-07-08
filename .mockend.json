@@ -1,5 +1,5 @@
 {
-  "Course":{[
+  "Course":[
   {
     "id":1,
     "name":"Html",
@@ -280,5 +280,5 @@
     "instructorname":"Prateek",
     "lessons":10
   }
-]}
+  ]
 }
